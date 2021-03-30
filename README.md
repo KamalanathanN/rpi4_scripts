@@ -6,5 +6,7 @@
 ## Make it Headless[ie.without HDMI]
 - ```sudo nano /boot/firmware/config.txt```
   - uncomment ``` hdmi_drive=2 ``` and also add line ```hdmi_force_hotplug=1```
+## To Do
+- [ ] Make a menu for all scripts.
 
 
